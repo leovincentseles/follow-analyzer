@@ -9,3 +9,20 @@
 - `python analyze.py`
 
 ## Report Example
+<h3>The people you follow but they don't follow back (11)</h3>
+<ul>
+  <li><a href="https://github.com/">torvxxx</a></li>
+  <li><a href="https://github.com/">ypxxx</a></li>
+  <li><a href="https://github.com/">youngyangxxx</a></li>
+  <li><a href="https://github.com/">Kagaxxx</a></li>
+  <li><a href="https://github.com/">Billxx</a></li>
+  <li><a href="https://github.com/">theblackcatxxx</a></li>
+  <li><a href="https://github.com/">whxxxx</a></li>
+  <li><a href="https://github.com/">wefxxxx</a></li>
+  <li><a href="https://github.com/">Elexxxx</a></li>
+  <li><a href="https://github.com/">kobexxxx</a></li>
+  <li><a href="https://github.com/">charlie5xxxx</a></li>
+</ul>
+<h3>The people who follow you but you don't follow back (0)</h3>
+<ul>
+</ul>
