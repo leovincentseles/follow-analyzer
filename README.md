@@ -14,7 +14,7 @@
   <li>torvxxx</li>
   <li>ypxxx</li>
   <li>youngyangxxx</li>
-  <li>Kagaxxx/li>
+  <li>Kagaxxx</li>
   <li>Billxx</li>
   <li>theblackcatxxx</li>
   <li>whxxxx</li>
